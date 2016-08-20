@@ -2,6 +2,8 @@
 
 This repo contains the Google App Script 'SocialData.gs' that works with a Google Spreadsheet, [Social Shares Data](https://docs.google.com/spreadsheets/d/1-3L5xANIssztHUmE3UMsJvukuFTwAgx_r4tQ-O768KM/edit?usp=sharing), to pull share data from various social media network APIs for a list of URLs using.
 
+The code is an updated version of Google spreadsheet [originally put together by Tom Anthony at Distilled](distilled.net/blog/social-media/3-quick-ways-to-check-social-metrics/).
+
 ## To use the script
 
 1. Open the [Social Shares Data](https://docs.google.com/spreadsheets/d/1-3L5xANIssztHUmE3UMsJvukuFTwAgx_r4tQ-O768KM/edit?usp=sharing) Google spreadsheet
