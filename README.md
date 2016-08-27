@@ -1,4 +1,4 @@
-# A Google Spreadsheet to Import Facebook Data And Other Social Media Data for a List of URLs
+# A Google Spreadsheet to Import Social Media Data for a List of URLs
 
 This repo contains the Google App Script 'SocialData.gs' that works with a Google Spreadsheet, [Social Shares Data](https://docs.google.com/spreadsheets/d/1-3L5xANIssztHUmE3UMsJvukuFTwAgx_r4tQ-O768KM/edit?usp=sharing), to pull share data from various social media network APIs for a list of URLs using.
 
