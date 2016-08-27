@@ -16,4 +16,4 @@ If you're getting "#ERROR" in cells, you may just need to refresh the page or wa
 
 ## Edits
 
-Please feel free to fork this and push edits back to me. Looking to add more social networks and make the code run faster if possible. (I'm not a programmer...)
+Please feel free to fork this and push edits back to me. Looking to add more social networks and make the code run faster if possible.
